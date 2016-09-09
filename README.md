@@ -1,0 +1,2 @@
+# ebconfig
+configuration for elasticbeanstalk
