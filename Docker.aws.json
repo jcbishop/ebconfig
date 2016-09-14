@@ -8,7 +8,7 @@
         "Name": "quay.io/thepattern/the-pattern-server",
         "Update": "true"
   },
-  "Ports"": [
+  "Ports": [
     {
         "ContainerPort": "8080"
     }
