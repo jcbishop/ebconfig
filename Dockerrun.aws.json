@@ -18,5 +18,5 @@
         "HostDirectory": "/var/app/the-pattern-server",
         "ContainerDirectory": "/opt/the-pattern-server"
     }
-  ],
+  ]
 }
