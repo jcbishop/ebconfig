@@ -2,7 +2,7 @@
   "AWSEBDockerrunVersion": "1",
   "Authentication": {
     "Bucket": " elasticbeanstalk-us-east-1-123908170925",
-    "Key": "the-pattern-server/jamesb-auth.json"
+    "Key": "jamesb-auth.json"
   },
   "Image": {
         "Name": "quay.io/thepattern/the-pattern-server",
